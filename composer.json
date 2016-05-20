@@ -17,6 +17,6 @@
         "bin-dir": "bin"
     },
     "autoload": {
-        "psr-4": { "Flycart\\Component\\Inventory\\": "" }
+        "psr-4": { "Flycartinc\\Component\\Inventory\\": "" }
     }
 }
