@@ -1,0 +1,30 @@
+{
+    "name": "flycartinc/inventory",
+    "type": "library",
+    "description": "Flexible inventory management for PHP applications.",
+    "keywords": ["shop", "ecommerce", "stock", "inventory", "sylius"],
+    "homepage": "http://flycart.org",
+    "license": "MIT",
+    "authors": [
+        {
+            "name":     "Shankar Thiyagaraajan"
+        }
+    ],
+    "require": {
+        "php": "^5.5.9|^7.0",
+
+        "sylius/resource": "0.17.*"
+    },
+    "config": {
+        "bin-dir": "bin"
+    },
+    "autoload": {
+        "psr-4": { "flycartinc\\Component\\Inventory\\": "" }
+    },
+    "minimum-stability": "dev",
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.17-dev"
+        }
+    }
+}
