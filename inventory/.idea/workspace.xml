@@ -2,6 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="969407c7-4991-4836-b633-0070f5bffc1d" name="Default" comment="-Namespace Commit">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dictionaries/flycart.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inventory.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Checker/AvailabilityChecker.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Checker/AvailabilityCheckerInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InventoryUnitTransitions.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Model/InventoryUnit.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Model/InventoryUnitInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Model/StockableInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Operator/BackordersHandler.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Operator/BackordersHandlerInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Operator/InsufficientStockException.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Operator/InventoryOperator.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Operator/InventoryOperatorInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Operator/NoopInventoryOperator.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SyliusStockableEvents.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/composer.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpspec.yml.dist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/support/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/support/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/support/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/support/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/support/Model/TimestampableInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/support/Model/TimestampableTrait.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/support/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/support/ResourceActions.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/support/composer.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/support/phpspec.yml.dist" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.idea/workspace.xml" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -146,7 +184,13 @@
       <option name="project" value="LOCAL" />
       <updated>1463984737024</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="-Rollback Commit">
+      <created>1463984843069</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1463984843069</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -187,7 +231,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="-Namespace Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="-Namespace Commit" />
+    <MESSAGE value="-Rollback Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="-Rollback Commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
