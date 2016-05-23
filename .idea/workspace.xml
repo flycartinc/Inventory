@@ -2,37 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d320dc05-8f46-44ea-a081-cb810a68c068" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Checker/AvailabilityChecker.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Checker/AvailabilityCheckerInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/InventoryUnitTransitions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Model/InventoryUnit.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Model/InventoryUnitInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Model/StockableInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Operator/BackordersHandler.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Operator/BackordersHandlerInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Operator/InsufficientStockException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Operator/InventoryOperator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Operator/InventoryOperatorInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Operator/NoopInventoryOperator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SyliusStockableEvents.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/phpspec.yml.dist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/support/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/support/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/support/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/support/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/support/Model/TimestampableInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/support/Model/TimestampableTrait.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/support/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/support/ResourceActions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/support/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/support/phpspec.yml.dist" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/inventory/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Checker/AvailabilityChecker.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Checker/AvailabilityCheckerInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/InventoryUnitTransitions.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Model/InventoryUnit.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Model/InventoryUnitInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Model/StockableInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Operator/BackordersHandler.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Operator/BackordersHandlerInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Operator/InsufficientStockException.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Operator/InventoryOperator.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Operator/InventoryOperatorInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Operator/NoopInventoryOperator.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SyliusStockableEvents.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/composer.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpspec.yml.dist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Checker/AvailabilityChecker.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Checker/AvailabilityCheckerInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Model/InventoryUnit.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Model/InventoryUnitInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Model/StockableInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/ObjectRepository.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Operator/BackordersHandler.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Operator/BackordersHandlerInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Operator/InsufficientStockException.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Operator/InventoryOperator.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Operator/InventoryOperatorInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Operator/NoopInventoryOperator.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Resource/InventoryUnitTransitions.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Resource/SyliusStockableEvents.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Resource/TimestampableInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Resource/TimestampableTrait.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/support/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/support/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/support/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/support/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/support/Model/TimestampableInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/support/Model/TimestampableTrait.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/support/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/support/ResourceActions.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/support/composer.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/support/phpspec.yml.dist" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="flycartinc.iws" />
@@ -96,8 +109,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -112,7 +125,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="flycartinc" />
+              <option name="myItemId" value="inventory" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -191,15 +204,22 @@
       <option name="project" value="LOCAL" />
       <updated>1463984261196</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="-Rollback">
+      <created>1463987329368</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1463987329368</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1808765" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18007968" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21129033" sideWeight="0.50278884" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21129033" sideWeight="0.49721116" order="8" side_tool="false" content_ui="tabs" />
@@ -207,7 +227,6 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32903227" sideWeight="0.49721116" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14328358" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -226,7 +245,8 @@
     <MESSAGE value="- initial commit" />
     <MESSAGE value="- Namespaced" />
     <MESSAGE value="- Rollback" />
-    <option name="LAST_COMMIT_MESSAGE" value="- Rollback" />
+    <MESSAGE value="-Rollback" />
+    <option name="LAST_COMMIT_MESSAGE" value="-Rollback" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
