@@ -12,7 +12,7 @@
 namespace Flycartinc\Inventory\Operator;
 
 use Illuminate\Support\Collection;
-use MyPlugin\Models\ObjectRepository;
+use Flycartinc\Inventory\Resource\ObjectRepository;
 use Flycartinc\Inventory\Model\InventoryUnit;
 use Flycartinc\Inventory\Model\InventoryUnitInterface;
 use Flycartinc\Inventory\Model\StockableInterface;
