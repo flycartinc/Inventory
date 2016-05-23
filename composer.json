@@ -7,7 +7,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name":     "Shankar Thiyagaraajan"
+            "name":     "Shankar Thiyagaraajan",
+	    "email":    "shankarthiyagaraajan@gmail.com"
         }
     ],
     "require": {
@@ -16,9 +17,9 @@
     "config": {
         "bin-dir": "bin"
     },
-    "autoload": {
+   "autoload": {
         "psr-4": {
-            "Inventory\\": "src/"
+            "Corcel\\": "src/"
         },
         "classmap": [
             "models"
