@@ -6,7 +6,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name":     "Shankar Thiyagaraajan"
+            "name":     "Shankar Thiyagaraajan",
+            "email":    "shankarthiyagaraajan@gmail.com"
         }
     ],
     "require": {
